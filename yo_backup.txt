@@ -1,0 +1,5 @@
+Tengo 20 años
+
+Sebas es mi nombre estoy practicando los conocimientos en platzi
+
+este archivo es producto de git checkout.
