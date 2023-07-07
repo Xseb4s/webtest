@@ -1,7 +1,5 @@
 Tengo 20 años
 
-Sebas es mi nombre y rodriguez mi apellido.
+Sebas es mi nombre estoy practicando los conocimientos en platzi
 
-me gusta leer.
-
-además estoy practicando los conocimientos en platzi.
+este archivo es producto de git checkout.
