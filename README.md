@@ -1,2 +1,3 @@
 # webtest
-Repo del curso web full stack 
+Repo del curso web full stack.
+Curso git.
